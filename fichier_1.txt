@@ -1,3 +1,5 @@
-Hello CNIGS
+Hello CNIGS !
 
-Je travaille sur une nouvelle fonctionnalité
+Je travaille sur une fonctionnalité
+
+je travaille sur un deuxieme commit
