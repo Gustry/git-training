@@ -1,4 +1,4 @@
-Hello CNIGS !
+Hello
 
 Je travaille sur une fonctionnalité
 
